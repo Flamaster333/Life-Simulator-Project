@@ -1,0 +1,244 @@
+19 16 72
+Wolf 10 3 9 71
+Wolf 11 2 9 71
+Wolf 12 1 9 69
+Wolf 10 2 9 68
+Wolf 9 0 9 68
+Wolf 12 2 9 67
+Wolf 11 1 9 67
+Wolf 8 0 9 67
+Wolf 13 0 9 67
+Wolf 9 1 9 66
+Wolf 10 1 9 66
+Wolf 11 0 9 66
+Wolf 12 0 9 66
+Wolf 10 0 9 66
+Wolf 4 8 9 66
+Wolf 18 0 9 64
+Wolf 16 0 9 63
+Wolf 17 0 9 62
+Wolf 1 4 9 62
+Wolf 0 4 9 61
+Wolf 8 9 9 60
+Wolf 2 5 9 60
+Wolf 3 8 9 60
+Wolf 3 7 9 59
+Wolf 2 4 9 59
+Wolf 1 5 9 59
+Wolf 0 5 9 59
+Wolf 9 7 9 50
+Wolf 0 6 9 50
+Wolf 9 15 9 41
+Wolf 8 7 9 36
+Wolf 6 8 9 36
+Wolf 5 8 9 35
+Wolf 2 7 9 34
+Wolf 2 6 9 33
+Wolf 4 5 9 31
+Wolf 14 0 9 28
+Wolf 8 4 9 28
+Wolf 15 0 9 25
+Wolf 11 3 9 24
+Wolf 12 3 9 24
+Wolf 0 3 9 24
+Wolf 9 2 9 23
+Wolf 9 4 9 23
+Wolf 9 3 9 22
+Wolf 6 9 9 20
+Wolf 10 4 9 18
+Wolf 8 6 9 17
+Wolf 6 6 9 16
+Wolf 1 3 9 15
+Wolf 6 7 9 15
+Wolf 17 1 9 15
+Wolf 5 7 9 14
+Wolf 18 1 9 14
+Wolf 4 7 9 13
+Wolf 3 6 9 13
+Wolf 17 2 9 12
+Wolf 4 6 9 12
+Wolf 1 6 9 11
+Wolf 5 6 9 11
+Wolf 3 5 9 11
+Wolf 1 7 9 10
+Wolf 8 3 9 10
+Wolf 10 7 9 10
+Wolf 6 5 9 9
+Wolf 7 5 9 8
+Wolf 8 10 9 7
+Wolf 8 5 9 7
+Wolf 18 2 9 7
+Wolf 10 6 9 6
+Wolf 10 8 9 6
+Wolf 11 4 9 6
+Wolf 12 4 9 5
+Wolf 9 5 9 5
+Wolf 2 8 9 5
+Wolf 10 15 9 5
+Wolf 7 4 9 5
+Wolf 4 9 9 5
+Wolf 9 6 9 5
+Wolf 8 2 9 4
+Wolf 10 5 9 4
+Wolf 13 15 9 4
+Wolf 3 9 9 4
+Wolf 7 9 9 3
+Wolf 13 1 9 3
+Wolf 5 5 9 3
+Wolf 8 15 9 3
+Wolf 8 14 9 3
+Wolf 8 13 9 3
+Wolf 9 8 9 3
+Wolf 8 11 9 3
+Wolf 9 9 9 3
+Wolf 2 3 9 2
+Wolf 8 8 9 2
+Wolf 5 9 9 2
+Wolf 16 1 9 2
+Wolf 12 15 9 2
+Wolf 6 4 9 2
+Wolf 7 0 9 2
+Wolf 3 4 9 2
+Wolf 0 2 9 2
+Wolf 8 12 9 2
+Wolf 8 1 9 1
+Wolf 0 7 9 1
+Wolf 11 15 9 1
+Wolf 7 3 9 1
+Wolf 11 5 9 1
+Wolf 4 4 9 1
+Wolf 9 14 9 1
+Wolf 9 10 9 1
+Wolf 7 10 9 1
+Human 7 6 17 71 0 0
+Deadly Nightshade 17 9 99 71
+Sosnowsky Hogweed 0 12 10 71
+Sosnowsky Hogweed 14 6 10 71
+Sosnowsky Hogweed 14 7 10 71
+Sosnowsky Hogweed 1 0 10 71
+Sosnowsky Hogweed 15 11 10 71
+Sosnowsky Hogweed 5 15 10 71
+Sosnowsky Hogweed 5 0 10 71
+Sosnowsky Hogweed 4 2 10 71
+Sosnowsky Hogweed 18 6 10 71
+Sosnowsky Hogweed 15 2 10 71
+Sosnowsky Hogweed 5 11 10 71
+Sosnowsky Hogweed 17 12 10 71
+Sosnowsky Hogweed 12 12 10 71
+Sosnowsky Hogweed 13 6 10 71
+Sosnowsky Hogweed 1 9 10 71
+Sosnowsky Hogweed 15 7 10 71
+Sosnowsky Hogweed 10 12 10 71
+Sosnowsky Hogweed 4 13 10 71
+Sosnowsky Hogweed 14 5 10 71
+Deadly Nightshade 18 9 99 69
+Sosnowsky Hogweed 0 11 10 69
+Sosnowsky Hogweed 14 8 10 68
+Sosnowsky Hogweed 15 12 10 68
+Sosnowsky Hogweed 0 9 10 66
+Sosnowsky Hogweed 4 15 10 65
+Sosnowsky Hogweed 14 11 10 63
+Sosnowsky Hogweed 4 1 10 63
+Sosnowsky Hogweed 4 11 10 63
+Sosnowsky Hogweed 4 12 10 63
+Sosnowsky Hogweed 13 7 10 61
+Sosnowsky Hogweed 0 13 10 60
+Sosnowsky Hogweed 15 6 10 59
+Sosnowsky Hogweed 18 5 10 59
+Sosnowsky Hogweed 15 5 10 58
+Sosnowsky Hogweed 11 12 10 57
+Sosnowsky Hogweed 14 10 10 55
+Sosnowsky Hogweed 1 10 10 54
+Sosnowsky Hogweed 13 8 10 54
+Sosnowsky Hogweed 3 15 10 54
+Sosnowsky Hogweed 1 13 10 54
+Sosnowsky Hogweed 1 1 10 52
+Sosnowsky Hogweed 15 3 10 50
+Deadly Nightshade 18 10 99 49
+Sosnowsky Hogweed 14 9 10 49
+Sosnowsky Hogweed 2 15 10 49
+Sosnowsky Hogweed 1 12 10 48
+Sosnowsky Hogweed 0 10 10 47
+Sosnowsky Hogweed 15 4 10 47
+Sosnowsky Hogweed 5 12 10 46
+Sosnowsky Hogweed 11 11 10 45
+Grass 15 10 0 45
+Sosnowsky Hogweed 13 11 10 44
+Sosnowsky Hogweed 3 1 10 43
+Sosnowsky Hogweed 14 4 10 43
+Sosnowsky Hogweed 17 11 10 42
+Deadly Nightshade 18 8 99 42
+Sosnowsky Hogweed 14 12 10 42
+Sosnowsky Hogweed 17 10 10 42
+Sosnowsky Hogweed 5 2 10 40
+Sosnowsky Hogweed 4 14 10 40
+Sosnowsky Hogweed 2 12 10 40
+Sosnowsky Hogweed 14 3 10 40
+Sosnowsky Hogweed 10 11 10 39
+Sosnowsky Hogweed 3 14 10 38
+Sosnowsky Hogweed 5 13 10 38
+Sosnowsky Hogweed 15 13 10 36
+Sosnowsky Hogweed 3 12 10 36
+Sosnowsky Hogweed 2 1 10 36
+Sosnowsky Hogweed 13 12 10 34
+Sosnowsky Hogweed 16 11 10 33
+Sosnowsky Hogweed 15 8 10 33
+Sosnowsky Hogweed 16 12 10 33
+Sosnowsky Hogweed 5 14 10 33
+Sosnowsky Hogweed 14 13 10 33
+Sosnowsky Hogweed 10 13 10 32
+Sosnowsky Hogweed 13 10 10 32
+Sosnowsky Hogweed 5 1 10 32
+Sosnowsky Hogweed 18 7 10 31
+Sosnowsky Hogweed 15 9 10 31
+Sosnowsky Hogweed 1 11 10 31
+Sosnowsky Hogweed 3 13 10 31
+Sosnowsky Hogweed 4 0 10 30
+Sosnowsky Hogweed 17 13 10 30
+Sosnowsky Hogweed 16 13 10 30
+Sosnowsky Hogweed 2 13 10 30
+Sosnowsky Hogweed 16 5 10 29
+Deadly Nightshade 17 8 99 29
+Sosnowsky Hogweed 3 11 10 29
+Sosnowsky Hogweed 12 11 10 27
+Sosnowsky Hogweed 11 13 10 27
+Sosnowsky Hogweed 16 9 10 27
+Sosnowsky Hogweed 1 14 10 26
+Sosnowsky Hogweed 16 6 10 26
+Sosnowsky Hogweed 12 7 10 25
+Sosnowsky Hogweed 13 13 10 24
+Sosnowsky Hogweed 13 9 10 23
+Sosnowsky Hogweed 16 10 10 23
+Sosnowsky Hogweed 2 11 10 23
+Sosnowsky Hogweed 13 5 10 22
+Sosnowsky Hogweed 2 14 10 22
+Sosnowsky Hogweed 12 10 10 21
+Sosnowsky Hogweed 17 6 10 19
+Sosnowsky Hogweed 14 2 10 19
+Sosnowsky Hogweed 6 15 10 18
+Sosnowsky Hogweed 16 7 10 18
+Sosnowsky Hogweed 17 7 10 18
+Sosnowsky Hogweed 6 2 10 17
+Sosnowsky Hogweed 17 5 10 16
+Sosnowsky Hogweed 16 8 10 14
+Sosnowsky Hogweed 6 11 10 13
+Sosnowsky Hogweed 12 13 10 13
+Sosnowsky Hogweed 12 6 10 12
+Deadly Nightshade 18 11 99 12
+Sosnowsky Hogweed 16 4 10 12
+Sosnowsky Hogweed 2 0 10 11
+Sosnowsky Hogweed 12 8 10 11
+Sosnowsky Hogweed 12 9 10 10
+Sosnowsky Hogweed 18 4 10 8
+Sosnowsky Hogweed 3 2 10 8
+Sosnowsky Hogweed 2 10 10 7
+Sosnowsky Hogweed 6 1 10 7
+Sosnowsky Hogweed 6 12 10 6
+Sosnowsky Hogweed 17 4 10 6
+Sosnowsky Hogweed 5 3 10 5
+Sosnowsky Hogweed 1 15 10 5
+Sosnowsky Hogweed 6 14 10 5
+Sosnowsky Hogweed 11 9 10 4
+Sosnowsky Hogweed 14 14 10 3
+Sosnowsky Hogweed 17 14 10 1
+Sosnowsky Hogweed 6 13 10 1

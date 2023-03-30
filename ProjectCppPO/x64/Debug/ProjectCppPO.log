@@ -1,0 +1,27 @@
+﻿  Animal.cpp
+  Antelope.cpp
+  Cords.cpp
+  Dandelion.cpp
+  DeadlyNightshade.cpp
+  Fox.cpp
+  Grass.cpp
+  Guarana.cpp
+  Human.cpp
+  Init.cpp
+  main.cpp
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\main.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Organism.cpp
+  Plant.cpp
+  Sheep.cpp
+  SosnowskyHogweed.cpp
+  Turtle.cpp
+  Wolf.cpp
+  World.cpp
+  Generating Code...
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\World.cpp(309): warning C4715: 'World::createOrganism': not all control paths return a value
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\World.cpp(333): warning C4715: 'World::createOrganism': not all control paths return a value
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\World.cpp(435): warning C4715: 'World::getIterator': not all control paths return a value
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\World.cpp(446): warning C4715: 'World::getIteratorToKill': not all control paths return a value
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\Organism.cpp(152): warning C4715: 'Organism::randomNewCords': not all control paths return a value
+C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\Organism.cpp(200): warning C4715: 'Organism::movePossibilities': not all control paths return a value
+  ProjectCppPO.vcxproj -> C:\Users\Flamaster333\Documents\Programming\Visual\ProjectCppPO\x64\Debug\ProjectCppPO.exe

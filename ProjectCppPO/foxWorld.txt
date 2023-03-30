@@ -1,0 +1,160 @@
+25 20 7
+Fox 4 2 3 6
+Fox 20 11 3 6
+Fox 15 16 3 6
+Fox 5 14 3 6
+Fox 15 13 6 6
+Fox 6 13 6 6
+Fox 3 11 3 6
+Fox 5 8 3 5
+Fox 4 11 3 5
+Fox 3 14 3 4
+Fox 2 8 3 3
+Fox 2 11 3 3
+Fox 3 15 3 3
+Fox 1 15 3 2
+Fox 1 13 3 2
+Fox 3 8 3 2
+Fox 2 13 3 2
+Fox 3 12 3 2
+Fox 2 14 3 2
+Fox 4 13 3 2
+Fox 5 13 3 2
+Fox 4 12 3 1
+Fox 3 16 3 1
+Fox 2 7 3 1
+Fox 2 12 3 1
+Fox 2 15 3 1
+Fox 5 12 3 1
+Fox 6 12 3 1
+Fox 1 7 3 1
+Fox 3 13 3 1
+Fox 0 16 3 1
+Fox 5 11 3 1
+Wolf 6 5 9 6
+Wolf 12 11 9 6
+Wolf 11 5 9 6
+Wolf 22 14 9 6
+Wolf 14 1 9 6
+Wolf 22 5 9 6
+Wolf 18 1 9 6
+Wolf 10 1 9 6
+Wolf 7 10 9 6
+Wolf 13 15 9 6
+Wolf 10 3 9 6
+Wolf 19 5 9 6
+Wolf 19 3 9 2
+Wolf 21 4 9 2
+Antelope 24 0 4 6
+Antelope 11 16 4 6
+Antelope 14 2 4 6
+Sheep 7 3 7 6
+Antelope 4 9 4 6
+Antelope 3 10 4 6
+Sheep 1 14 10 6
+Antelope 6 6 4 6
+Sheep 21 19 4 6
+Antelope 20 2 4 6
+Antelope 14 12 4 6
+Antelope 24 3 4 2
+Turtle 1 11 2 6
+Turtle 2 2 5 6
+Turtle 1 12 2 6
+Turtle 0 6 2 6
+Turtle 15 7 2 6
+Turtle 19 1 2 6
+Turtle 24 5 2 6
+Turtle 21 14 2 6
+Turtle 8 0 2 6
+Turtle 24 14 2 6
+Grass 16 7 0 6
+Sosnowsky Hogweed 9 7 10 6
+Grass 13 8 0 6
+Guarana 2 3 0 6
+Deadly Nightshade 22 12 99 6
+Sosnowsky Hogweed 5 19 10 6
+Dandelion 3 19 0 6
+Guarana 10 19 0 6
+Deadly Nightshade 6 17 99 6
+Sosnowsky Hogweed 1 19 10 6
+Grass 7 14 0 6
+Dandelion 14 9 0 6
+Sosnowsky Hogweed 21 16 10 6
+Grass 9 16 0 6
+Sosnowsky Hogweed 11 8 10 6
+Dandelion 20 9 0 6
+Deadly Nightshade 17 4 99 6
+Sosnowsky Hogweed 21 8 10 6
+Grass 20 7 0 6
+Dandelion 14 11 0 6
+Guarana 17 3 0 6
+Deadly Nightshade 15 6 99 6
+Sosnowsky Hogweed 10 15 10 6
+Deadly Nightshade 16 11 99 6
+Sosnowsky Hogweed 5 16 10 6
+Dandelion 23 15 0 6
+Guarana 18 6 0 6
+Sosnowsky Hogweed 9 17 10 6
+Grass 6 8 0 6
+Guarana 10 9 0 6
+Sosnowsky Hogweed 18 17 10 6
+Grass 15 19 0 6
+Guarana 3 3 0 6
+Deadly Nightshade 16 13 99 6
+Sosnowsky Hogweed 4 18 10 6
+Grass 21 7 0 6
+Dandelion 13 13 0 6
+Deadly Nightshade 4 0 99 6
+Sosnowsky Hogweed 9 12 10 6
+Dandelion 3 7 0 6
+Guarana 6 15 0 6
+Deadly Nightshade 3 17 99 6
+Sosnowsky Hogweed 23 6 10 6
+Guarana 13 4 0 6
+Deadly Nightshade 1 8 99 6
+Sosnowsky Hogweed 17 6 10 6
+Grass 16 4 0 6
+Sosnowsky Hogweed 2 17 10 6
+Grass 13 7 0 6
+Dandelion 14 8 0 6
+Guarana 23 2 0 6
+Deadly Nightshade 6 11 99 6
+Sosnowsky Hogweed 19 8 10 6
+Dandelion 4 19 0 6
+Sosnowsky Hogweed 17 5 10 6
+Guarana 12 7 0 6
+Deadly Nightshade 2 10 99 6
+Sosnowsky Hogweed 24 8 10 6
+Guarana 21 12 0 6
+Sosnowsky Hogweed 16 9 10 6
+Grass 18 2 0 6
+Dandelion 7 5 0 6
+Guarana 23 8 0 6
+Dandelion 2 19 0 6
+Deadly Nightshade 20 12 99 6
+Sosnowsky Hogweed 8 12 10 6
+Dandelion 14 7 0 6
+Sosnowsky Hogweed 20 8 10 5
+Sosnowsky Hogweed 10 12 10 5
+Guarana 22 8 0 5
+Deadly Nightshade 16 14 99 4
+Dandelion 3 6 0 4
+Sosnowsky Hogweed 15 9 10 4
+Dandelion 13 10 0 4
+Grass 7 13 0 3
+Dandelion 21 9 0 3
+Dandelion 13 11 0 3
+Dandelion 15 8 0 3
+Dandelion 16 8 0 3
+Grass 15 18 0 2
+Deadly Nightshade 3 18 99 2
+Sosnowsky Hogweed 10 13 10 2
+Sosnowsky Hogweed 21 17 10 1
+Grass 6 7 0 1
+Guarana 10 10 0 1
+Grass 16 3 0 1
+Guarana 23 7 0 1
+Dandelion 2 18 0 1
+Deadly Nightshade 20 13 99 1
+Dandelion 12 10 0 1
+Deadly Nightshade 20 14 99 1
